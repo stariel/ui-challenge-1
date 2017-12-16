@@ -4,19 +4,31 @@
 **Version**: 1.0.0 (increment the patch/fix version number up if you make more commits past your first submission)
 
 ## Overview
-<!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for a Code Fellows 301 class. (i.e. What's your problem domain?) -->
+This is an exercise in creating a CSS layout that is responsive to screen size.
 
 ## Getting Started
-<!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
+Load page in a browser.
 
 ## Architecture
-<!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
+This page uses HTML and CSS.
 
 ## Change Log
-<!-- Use this are to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an examples:
+commit 7cba1148247dc4f3ab0bd1147b7a586c976e9d2f (HEAD -> ariel1, origin/ariel1)
+Author: stariel
+Date:   Sat Dec 16 13:30:27 2017 -0800
 
-01-01-2001 4:59pm - Application now has a fully-functional express server, with GET and POST routes for the book resource.
+    set body width and centered on largerr screens
 
-## Credits and Collaborations
-<!-- Give credit (and a link) to other people or resources that helped you build this application. -->
--->
+commit 808aba0c3c199cc8527bdf6a01d50db4dcd1c670
+Author: stariel
+Date:   Sat Dec 16 13:20:39 2017 -0800
+
+    created CSS rules for box sizes and layouts
+
+commit 743875a627dd4f5fd8e26c1e05dbdef3da0d03c8
+Author: stariel
+Date:   Sat Dec 16 12:10:01 2017 -0800
+
+    created CSS directory and files, set up basic html page
+
+commit de4e91a1988b6b06c9f8eba0fa5f119ceb2bf359 (origin/master, origin/HEAD, master)
